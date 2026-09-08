@@ -1,12 +1,12 @@
 VERSION 5.00
-Begin VB.Form Form1 
+Begin VB.Form Form 
    BackColor       =   &H00FFFFFF&
-   Caption         =   "Form1"
+   Caption         =   "Form"
    ClientHeight    =   7440
    ClientLeft      =   120
    ClientTop       =   450
    ClientWidth     =   4755
-   LinkTopic       =   "Form1"
+   LinkTopic       =   "Form"
    ScaleHeight     =   7440
    ScaleWidth      =   4755
    StartUpPosition =   2  'CenterScreen
